@@ -1,0 +1,6 @@
+l = int(input())
+c = int(input())
+r1 = (l * c) + ((l -1 ) * (c - 1))
+r2 = ((l - 1) * 2) + ((c - 1) * 2)
+print(r1)
+print(r2)
